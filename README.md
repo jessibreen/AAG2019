@@ -1,4 +1,4 @@
 # Digital Geographies Specialty Group
-# AAG 2019 Schedule, Washington, D.C.
+# AAG 2022 Schedule, Virtual
 
 [SCHEDULE](https://digitalgeographies.github.io/AAG2019/)
